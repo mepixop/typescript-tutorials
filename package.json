@@ -1,0 +1,16 @@
+{
+  "name": "tstutorial",
+  "version": "1.0.0",
+  "description": "TutorialCode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "(npx parcel serve ./index.html) && (npx parcel watch./index.html)"
+
+  },
+  "author": "pixop",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "prettier": "3.0.3"
+  }
+}
