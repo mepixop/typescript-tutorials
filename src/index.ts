@@ -14,4 +14,4 @@ const airplane: Airplane = {
     }
 }
 
-console.log(airplane.model);
+console.log(airplane.model)
